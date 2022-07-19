@@ -16,6 +16,10 @@ export const config = {
   },
   width: GAME_WIDTH,
   height: GAME_HEIGHT,
+  scale: {
+    mode: Phaser.Scale.FIT,
+    autoCenter: Phaser.Scale.CENTER_BOTH,
+  },
   scene: [StartScene, GameScene],
 };
 
