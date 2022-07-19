@@ -2,6 +2,8 @@
 
 Dodge truck-kun and its allies to avoid getting isekai'd. Move with arrow keys. Space to restart once dead.
 
+Live demo here: https://kkcmah.github.io/phaser3-typescript-dont-get-isekaied/
+
 Typescript Template from: https://github.com/photonstorm/phaser3-typescript-project-template
 
 Pixel Car Pack Assets <br>
