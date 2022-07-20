@@ -11,6 +11,8 @@ Created/distributed by Kenney (www.kenney.nl) <br>
 License: (Creative Commons Zero, CC0) <br>
 http://creativecommons.org/publicdomain/zero/1.0/
 
+To deploy game to github do `npm run build` then copy files from /dist to /docs
+
 ## Phaser 3 TypeScript Project Template
 
 This quick-start project template combines Phaser 3.50 with [TypeScript 4](https://www.typescriptlang.org/) and uses [Rollup](https://rollupjs.org) for bundling.
